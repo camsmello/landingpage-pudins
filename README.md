@@ -5,7 +5,10 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)  
 
 ## Sobre o projeto: 📌
-Este projeto é uma **landing page estática** desenvolvida em **HTML e CSS**, criada para meus amigos que possuem uma loja de pudins. O intuito é fazer uma landing page contendo todas as informações sobre os produtos, como fotos, sabores disponíveis e preços. Além disso, a página conta com a história da loja, como foi criada e idealizada. Ao final, coloquei os links para contato.
+Este projeto é uma landing page estática desenvolvida em HTML e CSS, criada originalmente para meus amigos que possuem uma loja de pudins.
+O objetivo foi construir uma página que reunisse todas as informações sobre os produtos, incluindo fotos, sabores disponíveis e preços.
+Além disso, o site conta com uma seção apresentando a história da loja, como foi criada e idealizada, e, por fim, inclui links de contato para facilitar a comunicação com os clientes.
+**Esta versão apresentada é uma demonstração alterada para fins de portfólio.**
 
 ## Tecnologias utilizadas: 💻
 - HTML5 ✅
