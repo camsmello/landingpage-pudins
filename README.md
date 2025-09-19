@@ -19,7 +19,7 @@ Além disso, o site conta com uma seção apresentando a história da loja, como
 A página conta com:  
 - Header com logotipo e menu de navegação ✅
 - Cards de produtos (pudins) com imagens e descrições ✅
-- Sessão de história da loja
+- Sessão de história da loja ✅
 - Sessão de contato com botão de WhatsApp ✅
 - Rodapé simples e funcional ✅
 
