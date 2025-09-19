@@ -45,10 +45,12 @@ header {
 }
 
 .logo {
-    width: 280px;
-    height: auto;
-    margin-bottom: 30px;
-    border-radius: 50%;
+  width: 280px;
+  height: 280px; 
+  margin-bottom: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
 }
 
 /* TITULOS */
