@@ -36,5 +36,5 @@ Durante o desenvolvimento, pratiquei:
 👉 [Acesse o site aqui]([https://camsmello.github.io/landingpage-pudins/])  
 
 ## 📷 Preview
-![Preview do site](./preview.png)
+![Preview do site](./preview.jpeg)
 
