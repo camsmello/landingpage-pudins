@@ -33,7 +33,7 @@ Durante o desenvolvimento, pratiquei:
 - Técnicas de responsividade  
 
 ## 🔗 Como acessar
-👉 [Acesse o site aqui]([https://camsmello.github.io/landingpage-pudins/])  
+👉 [Acesse o site aqui](https://camsmello.github.io/landingpage-pudins/)  
 
 ## 📷 Preview
 ![Preview do site](./preview.jpeg)
